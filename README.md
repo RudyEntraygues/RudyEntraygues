@@ -1,18 +1,7 @@
-<!-- ==================================================================
-     README de profil GitHub — Rudy Entraygues
-     Tout ce qui est entre <!-- et --> est un COMMENTAIRE :
-     invisible sur ton profil, il sert à t'expliquer le code.
-     ================================================================== -->
-
-<!-- BANNIÈRE : image générée à la volée par le service "capsule-render".
-     Le serveur lit les paramètres de l'URL et dessine l'image :
-       type=waving        -> forme en vague
-       color=0:...,100:...-> dégradé (0 % = début, 100 % = fin)
-       text= / desc=      -> titre et sous-titre (accents et espaces encodés : %20 = espace)
-     Si un jour la bannière ne s'affiche plus, supprime simplement ce bloc. -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=170&section=header&text=Rudy%20Entraygues&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Syst%C3%A8mes%20%C2%B7%20R%C3%A9seaux%20%C2%B7%20Cybers%C3%A9curit%C3%A9&descSize=18&descAlignY=58" alt="Rudy Entraygues — Systèmes, réseaux, cybersécurité" width="100%" />
 </p>
+
 
 <p align="center"><i>🇬🇧 English version at the bottom of the page</i></p>
 
@@ -24,7 +13,7 @@ Ce qui me motive dans l'informatique : découvrir sans arrêt de nouvelles chose
 
 J'apprends en pratiquant : je monte, je casse, je répare et je documente. Un tag VLAN oublié qui coupe tout le réseau d'un conteneur, ça ne s'oublie plus.
 
-- 🔭 **En ce moment** : logique binaire, adressage IP et modèle TCP/IP, cybersécurité (attaque et défense)
+- 🔭 **En ce moment** : livre L'Art du code par Charles Petzold, adressage IP et modèle TCP/IP, cybersécurité (attaque et défense)
 - 🌱 **Prochaines étapes** : Active Directory / Windows Server, SIEM Wazuh, SQL, langage C
 - 💼 **Ouvert aux propositions** : missions en freelance, projets autour des systèmes et réseaux
 - 🗣️ **Langues** : Français (courant) · Anglais (bon niveau)
